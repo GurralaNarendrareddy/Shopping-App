@@ -1,0 +1,15 @@
+.nav-main{
+    background: rgb(192, 180, 180);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.cart{
+    height: 40px;
+    width: 40px;
+}
+h3{
+    margin-right: 30px;
+}
